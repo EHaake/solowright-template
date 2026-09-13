@@ -1,8 +1,9 @@
 # Getting Started
 
 This file travels with every project created from this template. The
-`spec-driven-development` skill itself — `SKILL.md`, the reusable
-templates, the reviewer subagent — lives separately, installed once at
+Solowright system itself — the `spec-driven-development` skill:
+`SKILL.md`, the reusable templates, the three subagents — lives at
+github.com/EHaake/solowright, installed once at
 `~/.claude/skills/spec-driven-development/`, not inside this repo. This
 file is the quick human reference for actually running a project: how
 to set one up, what the files are for, what the day-to-day flow looks
